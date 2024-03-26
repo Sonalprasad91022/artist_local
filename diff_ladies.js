@@ -6,7 +6,7 @@ exports.getLady = function() {
             image : "images/put2",
             name : "Rekha Devi", 
             heading:"I am a Mithila Painter From Madhubani, Bihar, India and my speciality is Mithila Painting and I make made posters and mithila painted sarees for weddings and occasions.",
-            para1: "I am 57 years old and a part of Pehchaan since 4 years.In Bihar Mithila painting posters are one of the major part of weddin occasions .My products are been sold outside india too. PrimeMiniter Narendra Modi himself has praised the maithili artculture and has encouraged many other ladies. Some of the girls of our NGO are learning this art from mee  ",
+            para1: "I am 57 years old and a part of Pehchaan since 4 years.In Ranchi Jharkhand painting posters are one of the major part of weddin occasions .My products are been sold outside india too. PrimeMiniter Narendra Modi himself has praised the maithili artculture and has encouraged many other ladies. Some of the girls of our NGO are learning this art from mee  ",
             para2:"Support of our customers have encouraged us to work on this mission to make Pehchaan an identity for all those ladies who have talents but havent got the platform to showcase it.It will be our heartiest request to share this website so that we can reach all women over india.",
             phone: "93498374939",
             products:{
